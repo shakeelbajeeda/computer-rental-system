@@ -20,7 +20,7 @@ class DatabaseSeeder extends Seeder
         ]);
         DB::table('users')->insert([
             'name' => 'Demo Web Manager',
-            'email'=> 'demo@gmail.com',
+            'email'=> 'test@gmail.com',
             'password' => \Hash::make('123456789'),
             'role'=> 'Web Manager',
             'total_money' => 0,
