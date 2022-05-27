@@ -1,0 +1,290 @@
+
+.header-top.header-top-2 .header-top-item .header-left-side ul li{
+	margin-right: 0;
+	margin-left: 38px;
+}
+.header-nav .navigation .navbar .navbar-nav .nav-item .sub-menu{
+	left: auto;
+	right: 0;
+	text-align: right;
+}
+.banner-area .banner-content {
+    text-align: right;
+}
+.banner-area-2 .banner-flex .banner-content{
+	text-align: right;
+}
+.banner-area-2.banner-area-3 .banner-content-3 p{
+	padding-right: 0;
+	padding-left: 100px;
+}
+.banner-area-2.banner-area-3 .banner-content-3 ul li:first-child{
+	margin-right: 0;
+	margin-left: 40px;
+}
+.featires-2-area{
+	text-align: right;
+}
+.about-area .about-content {
+    padding-left: 0;
+    text-align: right;
+    padding-right: 30px;
+}
+.fact-area .fact-item {
+    direction: ltr;
+    text-align: right;
+}
+.team-area .team-active .slick-arrow.next{
+	left: auto;
+	right: -485px;
+}
+.team-area .team-active .slick-arrow.prev{
+	left: auto;
+	right: -450px;
+}
+.team-area .team-title {
+    text-align: right;
+}
+.quote-area .quote-content {
+    text-align: right;
+}
+.quote-area .quote-content form .input-box i{
+	right: auto;
+	left: 30px;
+}
+.blog-area .blog-item .blog-content ul li{
+	margin-right: 0;
+	margin-left: 26px;
+}
+.blog-area .blog-item .blog-content{
+	text-align: right;
+}
+.quote-area .quote-content form .input-box input,
+.newaletter-area .newaletter-item .newaletter-input input{
+	padding-left: 0;
+	padding-right: 30px;
+}
+.newaletter-area .newaletter-item .newaletter-content .item {
+    text-align: right;
+    padding-left: 0;
+    padding-right: 70px;
+}
+.footer-area .footer-widget .footer-items-3 .News-item .News-content{
+	padding-left: 0;
+	padding-right: 18px;
+}
+.footer-widget {
+    text-align: right;
+}
+.team-2-area .section-title {
+    text-align: right;
+}
+.team-2-area .section-title p.text{
+	padding-right: 0;
+	padding-left: 70px;
+}
+.counter-area .counter-item{
+	text-align: right;
+}
+.testimonials-2-area .section-title {
+    text-align: right;
+}
+.testimonials-2-area .testimonials-item .testimonials-info{
+	text-align: right;
+}
+.blog-area-2 .blog-item .blog-overlay{
+	text-align: right;
+}
+.blog-area-2 .blog-item .blog-overlay .blog-content ul li:first-child{
+	margin-right: 0;
+	margin-left: 25px;
+}
+.blog-area-2 .blog-item .blog-overlay .blog-tag{
+	left: auto;
+	right: 30px;
+}
+.banner-content-3 {
+    text-align: right;
+}
+.about-3-area .section-title {
+    text-align: right;
+}
+.about-3-area .section-title > span{
+	padding-right: 0;
+	padding-left: 40px;
+}
+.case-study-area .section-title {
+    text-align: right;
+}
+.case-study-area .case-item .case-content{
+	text-align: right;
+}
+.achievement-area .section-title {
+    text-align: right;
+}
+.achievement-area .achievement-text{
+	text-align: right;
+}
+.blog-3-area .section-title {
+    text-align: right;
+}
+.blog-3-area .blog-item .blog-content{
+	text-align: right;
+}
+.blog-3-area .blog-item .blog-content ul li:first-child{
+	margin-left: 30px;
+	margin-right: 0;
+}
+.footer-item-1,
+.footer-item-2{
+	text-align: right;
+}
+.footer-3-area .footer-info{
+	text-align: right;
+}
+.page-title-content {
+    text-align: right;
+}
+.faq-area.about-faq .company-content {
+    text-align: right;
+}
+.case-details-area .case-list{
+	text-align: right;
+}
+.case-details-area .case-content{
+	text-align: right;
+}
+.blog-standard-area .blog-standard .blog-item .blog-content{
+	text-align: right;
+}
+.blog-standard-area .blog-standard .blog-item .blog-content .item .blog-date ul li{
+	margin-right: 0;
+	margin-left: 26px;
+}
+.blog-standard-area .blog-sidebar .blog-search .input-box input{
+	padding-left: 0;
+	padding-right: 30px;
+}
+.blog-standard-area .blog-sidebar .blog-search .input-box button{
+	right: auto;
+	left: 0;
+}
+.blog-standard-area .blog-sidebar .blog-list,
+.blog-standard-area .blog-sidebar .blog-news{
+	text-align: right;
+}
+.blog-standard-area .blog-standard .blog-comments .blog-title .title::before,
+.blog-standard-area .blog-standard .blog-massage .blog-title .title::before,
+.blog-standard-area .blog-sidebar .blog-list .blog-title .title::before,
+.blog-standard-area .blog-sidebar .blog-news .blog-title .title::before{
+	left: auto;
+	right: 0;
+}
+.blog-standard-area .blog-standard .blog-comments .blog-title .title::after,
+.blog-standard-area .blog-standard .blog-massage .blog-title .title::after,
+.blog-standard-area .blog-sidebar .blog-list .blog-title .title::after,
+.blog-standard-area .blog-sidebar .blog-news .blog-title .title::after{
+	right: 17px;
+	left: auto;
+}
+.blog-standard-area .blog-standard .blog-massage .blog-form .input-box textarea,
+.blog-standard-area .blog-standard .blog-massage .blog-form .input-box input{
+	padding-left: 0;
+	padding-right: 20px;
+}
+.blog-standard-area .blog-standard .blog-quote,
+.blog-standard-area .blog-standard .blog-comments,
+.blog-standard-area .blog-standard .blog-massage{
+	text-align: right;
+}
+.blog-standard-area .blog-standard .blog-comments .blog-comments-area .blog-comments-item p{
+	padding-right: 0;
+	padding-left: 60px;
+}
+.blog-standard-area .blog-standard .blog-quote p{
+	padding-right: 0;
+	padding-left: 15px;
+}
+.blog-standard-area .blog-standard .blog-quote{
+	border-left: none;
+	border-right: 5px solid #0154f7;
+}
+.solutions-content-area {
+    text-align: right;
+    padding-left: 0;
+    padding-right: 70px;
+}
+.solutions-area .solutions-content-area .solutions-list .item p{
+	padding-right: 0;
+	padding-left: 30px;
+}
+.services-business .section-title {
+    text-align: right;
+}
+.services-business .section-title > span{
+	padding-right: 0;
+	padding-left: 30px;
+}
+.services-business .section-title > span.text{
+	padding-right: 0;
+	padding-left: 30px;
+}
+.shop-collection-area .shop-collection{
+	direction: ltr;
+}
+.shop-sidebar{
+	text-align: right;
+}
+.shop-area .shop-sidebar .shop-title .title::before{
+	left: auto;
+	right: 0;
+}
+.shop-area .shop-sidebar .shop-title .title::after{
+	left: auto;
+	right: 18px;
+}
+.product-details-content {
+    text-align: right;
+    margin-left: 0;
+    margin-right: 60px;
+}
+.product-details-area .product-item-slide{
+	margin-right: 0;
+	margin-left: -30px;
+}
+.shop-tab-area {
+    text-align: right;
+}
+.contact-massage-area {
+    text-align: right;
+    padding-left: 0;
+    padding-right: 70px;
+}
+.contact-info-area .contact-thumb .contact-text{
+	left: auto;
+	right: 40px;
+}
+.contact-info-area .contact-thumb .contact-text .title{
+	padding-left: 0;
+	padding-right: 25px;
+    border-left: none;
+    border-right: 5px solid #fff;
+    text-align: right;
+}
+.contact-info-area .contact-massage-area .contact-massage-content .title::before{
+	left: auto;
+	right: 0;
+}
+.contact-info-area .contact-massage-area .contact-massage-content .title::after{
+	left: auto;
+	right: 18px;
+}
+.contact-info-area .contact-massage-area form .input-box textarea,
+.contact-info-area .contact-massage-area form .input-box input{
+	padding-left: 0;
+	padding-right: 20px;
+}
+.contact-info-area .contact-massage-area form .input-box i{
+	left: 20px;
+	right: auto;
+}
